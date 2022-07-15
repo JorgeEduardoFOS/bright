@@ -9,7 +9,7 @@ To run this command without the need of typing password, run
 
 and add a line with your username where is yourusername like that:
 
-yourusername ALL=(ALL) NOPASSWD: /home/jorge/.local/bin/brilha.sh
+yourusername ALL=(ALL) NOPASSWD: /home/jorge/.local/bin/bright.sh
 
 You can also add a keyboard shortcut for this script.
 
