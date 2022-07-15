@@ -3,7 +3,7 @@ This shell script means to turn on the led of the ScollLock key or the led of th
 
 To run this script by just typing bright.sh on terminal, put it on your user folder in this path ~/.local/bin.
 
-To run this command without the need of type password, run
+To run this command without the need of typing password, run
 
     sudo visudo
 
