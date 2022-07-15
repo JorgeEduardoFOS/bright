@@ -11,4 +11,6 @@ and add a line with your username where is yourusername like that:
 
 yourusername ALL=(ALL) NOPASSWD: /home/jorge/.local/bin/brilha.sh
 
+You can also add a keyboard shortcut for this script.
+
 The original script by aljazzair is found at https://unix.stackexchange.com/questions/265617/what-is-the-equivalent-of-xset-led-3
