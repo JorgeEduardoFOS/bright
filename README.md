@@ -1,5 +1,5 @@
 # bright
-This shell script is meant to a external keyborad to turn on the led of the ScrollLock key or the led of the autoiluminated keybords in Wayland environment.
+This shell script is meant to an external keyborad to turn on the led of the ScrollLock key or the led of the autoiluminated keybords in Wayland environment.
 
 To run this script by just typing bright.sh on terminal, put it on your user folder in this path ~/.local/bin.
 
